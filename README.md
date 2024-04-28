@@ -39,10 +39,13 @@ The Fruit-detector component is a Streamlit application that provides a user-fri
 3. Run the Fruit-detector component using Streamlit.
 4. Follow the instructions provided in the application to interact with the FruityVision system.
 
+
+### Note
+The datasets, .streamlit file, and environment configuration (env) are not included in this repository.
+
 ## Acknowledgments
 - The classification model was trained on a dataset containing images of various fruits.
 - Nutritional information was sourced from the provided CSV file.
 
 For detailed usage instructions and additional information, refer to the documentation included with each component.
-
 
